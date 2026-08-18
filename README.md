@@ -34,6 +34,8 @@ If you used AI to generate the HTML, include at the end of the file or in an `AI
 - Which parts were AI-generated
 - What you had to fix and why
 
+We used AI to build the HTML fastly, we gave the AI the diagram of each section and then we said to the AI to write the htmml code. We fixed some names that weren´t on the original diagram and some organizations in the forms.
+
 ## Deployment
 
 Push to GitHub Pages. Plain HTML — no build step required.
