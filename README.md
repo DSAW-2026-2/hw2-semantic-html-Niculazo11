@@ -1,3 +1,7 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AEBN5VKN)
+# Nicolas Moreno Parra
+URL: https://dsaw-2026-2.github.io/hw2-semantic-html-Niculazo11/
+
 # HW02 — Semantic HTML
 
 **Week 2 · DSAW · Universidad de La Sabana**
@@ -29,6 +33,8 @@ Run your page through [WAVE Web Accessibility Evaluator](https://wave.webaim.org
 If you used AI to generate the HTML, include at the end of the file or in an `AI-LOG.md`:
 - Which parts were AI-generated
 - What you had to fix and why
+
+We used AI to build the HTML fastly, we gave the AI the diagram of each section and then we said to the AI to write the htmml code. We fixed some names that weren´t on the original diagram and some organizations in the forms.
 
 ## Deployment
 
